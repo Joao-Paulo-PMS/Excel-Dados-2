@@ -1,0 +1,51 @@
+﻿CodigoProduto,NomeProduto,Categoria,Cor,Tamanho,Marca,Preco,Estoque
+P0001,Camisetas Branco M - Classic Fit,Camisetas,Branco,M,Classic Fit,576.11,76
+P0002,Calças Cinza M - Meteora Basics,Calças,Cinza,M,Meteora Basics,546.91,176
+P0003,Acessórios Preto G - Meteora Basics,Acessórios,Preto,G,Meteora Basics,355.67,66
+P0004,Acessórios Azul P - Classic Fit,Acessórios,Azul,P,Classic Fit,435.72,193
+P0005,Camisetas Branco P - Classic Fit,Camisetas,Branco,P,Classic Fit,451.18,138
+P0006,Jaquetas Azul P - Meteora Basics,Jaquetas,Azul,P,Meteora Basics,253.95,174
+P0007,Calças Preto P - Urban Line,Calças,Preto,P,Urban Line,561.64,32
+P0008,Jaquetas Azul P - Urban Line,Jaquetas,Azul,P,Urban Line,341.16,106
+P0009,Jaquetas Amarelo PP - Luxury Edge,Jaquetas,Amarelo,PP,Luxury Edge,516.21,27
+P0010,Sapatos Bege G - Classic Fit,Sapatos,Bege,G,Classic Fit,67.49,114
+P0011,Calças Cinza PP - Urban Line,Calças,Cinza,PP,Urban Line,430.9,36
+P0012,Jaquetas Branco M - Classic Fit,Jaquetas,Branco,M,Classic Fit,273.53,1
+P0013,Camisetas Bege PP - Classic Fit,Camisetas,Bege,PP,Classic Fit,484.47,65
+P0014,Camisetas Cinza G - StreetWear,Camisetas,Cinza,G,StreetWear,193.47,37
+P0015,Jaquetas Preto GG - Meteora Basics,Jaquetas,Preto,GG,Meteora Basics,195.48,32
+P0016,Acessórios Amarelo G - Classic Fit,Acessórios,Amarelo,G,Classic Fit,466.12,30
+P0017,Vestidos Branco PP - Luxury Edge,Vestidos,Branco,PP,Luxury Edge,365.64,53
+P0018,Jaquetas Vermelho P - Classic Fit,Jaquetas,Vermelho,P,Classic Fit,206.95,168
+P0019,Acessórios Cinza M - Urban Line,Acessórios,Cinza,M,Urban Line,118.84,153
+P0020,Sapatos Bege G - Meteora Basics,Sapatos,Bege,G,Meteora Basics,302.72,38
+P0021,Sapatos Amarelo P - Luxury Edge,Sapatos,Amarelo,P,Luxury Edge,415.38,67
+P0022,Acessórios Azul G - Meteora Basics,Acessórios,Azul,G,Meteora Basics,279.39,196
+P0023,Calças Azul M - Meteora Basics,Calças,Azul,M,Meteora Basics,570.86,116
+P0024,Jaquetas Cinza G - Meteora Basics,Jaquetas,Cinza,G,Meteora Basics,92.58,58
+P0025,Acessórios Preto GG - StreetWear,Acessórios,Preto,GG,StreetWear,571.05,190
+P0026,Sapatos Preto PP - Classic Fit,Sapatos,Preto,PP,Classic Fit,109.32,132
+P0027,Camisetas Amarelo GG - Classic Fit,Camisetas,Amarelo,GG,Classic Fit,533.66,30
+P0028,Jaquetas Cinza PP - Classic Fit,Jaquetas,Cinza,PP,Classic Fit,108.84,135
+P0029,Vestidos Vermelho P - Meteora Basics,Vestidos,Vermelho,P,Meteora Basics,261.94,40
+P0030,Camisetas Verde PP - StreetWear,Camisetas,Verde,PP,StreetWear,595.57,90
+P0031,Sapatos Bege G - Classic Fit,Sapatos,Bege,G,Classic Fit,87.98,68
+P0032,Calças Cinza GG - Meteora Basics,Calças,Cinza,GG,Meteora Basics,369.5,140
+P0033,Jaquetas Verde G - Classic Fit,Jaquetas,Verde,G,Classic Fit,530.93,74
+P0034,Camisetas Bege P - Meteora Basics,Camisetas,Bege,P,Meteora Basics,410.45,107
+P0035,Acessórios Azul P - StreetWear,Acessórios,Azul,P,StreetWear,444.39,3
+P0036,Jaquetas Verde P - Meteora Basics,Jaquetas,Verde,P,Meteora Basics,454.1,179
+P0037,Camisetas Amarelo PP - Urban Line,Camisetas,Amarelo,PP,Urban Line,108.59,59
+P0038,Calças Bege M - StreetWear,Calças,Bege,M,StreetWear,257.27,75
+P0039,Vestidos Preto P - StreetWear,Vestidos,Preto,P,StreetWear,215.2,127
+P0040,Camisetas Verde GG - Luxury Edge,Camisetas,Verde,GG,Luxury Edge,379.56,29
+P0041,Jaquetas Vermelho M - Urban Line,Jaquetas,Vermelho,M,Urban Line,518.74,149
+P0042,Jaquetas Amarelo P - StreetWear,Jaquetas,Amarelo,P,StreetWear,120.55,173
+P0043,Acessórios Vermelho P - Classic Fit,Acessórios,Vermelho,P,Classic Fit,221.46,61
+P0044,Acessórios Cinza M - StreetWear,Acessórios,Cinza,M,StreetWear,235.82,108
+P0045,Jaquetas Preto P - Classic Fit,Jaquetas,Preto,P,Classic Fit,525.43,110
+P0046,Sapatos Azul M - Classic Fit,Sapatos,Azul,M,Classic Fit,405.39,151
+P0047,Sapatos Branco M - Classic Fit,Sapatos,Branco,M,Classic Fit,91.44,153
+P0048,Camisetas Cinza G - Luxury Edge,Camisetas,Cinza,G,Luxury Edge,446.45,93
+P0049,Camisetas Preto M - Urban Line,Camisetas,Preto,M,Urban Line,549.35,108
+P0050,Sapatos Verde G - StreetWear,Sapatos,Verde,G,StreetWear,411.11,115

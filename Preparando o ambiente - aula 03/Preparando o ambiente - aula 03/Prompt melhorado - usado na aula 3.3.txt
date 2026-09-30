@@ -1,0 +1,41 @@
+
+
+Preciso de uns ajustes no código. Vou repetir o prompt anterior, mas farei as modificações necessárias:
+
+
+
+Tenho uma planilha do Microsoft Excel com várias abas com dados de possíveis clientes. 
+
+ Cada aba da planilha tem 3 colunas: "CodigoCliente",	"NomeCliente",	"Cidade". Preciso gerar um código em VBA Excel para fazer algumas limpezas de dados.
+
+
+
+Para cada aba da pasta de trabalho que o nome começar com "Prospects", preciso fazer os seguintes ajustes:
+
+####Para coluna código cliente: ####
+
+Mantenha a coluna original e gere três colunas novas, separando cada uma das partes do código: 
+
+Coluna 1 - País (caracteres que estiverem antes do primeiro hífen)
+
+Coluna 2 - Estado (caracateres que estiverem entre os dois hífens)
+
+Coluna 3 - Código numérico (caracteres numéricos depois do segundo hífen)
+
+
+
+####Para coluna código NomeCliente: ####
+
+Retirar espaços em branco no começo e no final do nome;
+
+Deixar a primeira letra de cada nome em maiúscula e o resto em minúsculas
+
+
+
+####Para coluna código Cidade: ####
+
+Retirar os caracteres "estranhos", como por exemplo: #, $, *, &, %, !, ~. 
+
+
+
+ Gere um código em VBA que ajuste os dados das colunas de cidade.

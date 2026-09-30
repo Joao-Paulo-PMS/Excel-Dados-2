@@ -1,0 +1,17 @@
+Tenho uma planilha do Microsoft Excel com várias abas com dados de possíveis clientes.
+
+Cada aba da planilha tem 3 colunas: "CodigoCliente", "NomeCliente", "Cidade"
+
+
+
+Preciso ajustar a aba "Cidade" porque o nome da cidade tem caracteres estranhos, como por exemplo: #, $, *, &.
+
+Preciso que isso seja feito para todas as abas cujo nome comecem com "Prospects"
+
+
+
+Gere um código em VBA que ajuste os dados das colunas de cidade.
+
+1-Contexto
+2-O que preciso fazer
+3- Qual o resultado que eu quero
